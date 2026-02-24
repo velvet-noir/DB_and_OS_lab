@@ -27,3 +27,14 @@ sudo apt install openssh-server
 Подключение к виртуальной машине из терминала Windows:
 
 ![img](../assets/lab_1_image/image_4.png)
+
+- ### Установка PostgreSQL
+Установил последную версию PostgreSQL:
+```
+sudo apt install postgresql postgresql-contrib
+```
+- `postgresql` - сам сервер PostgreSQL
+- `postgresql-contrib` - набор модулей и утилит для работы c PostgreSQL
+
+![img](../assets/lab_1_image/image_5.png)
+
